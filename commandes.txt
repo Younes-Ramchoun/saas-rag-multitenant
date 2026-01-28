@@ -1,0 +1,11 @@
+Terminal 1 : uvicorn (backend)
+
+.\.venv\Scripts\Activate.ps1
+uvicorn app.main:app --reload
+
+
+Terminal 2 : Streamlit (frontend)
+
+.\.venv\Scripts\Activate.ps1
+cd app
+streamlit run frontend.py
