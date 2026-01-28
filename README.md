@@ -139,10 +139,15 @@ streamlit run frontend.py
 Question Tenant A : “Comment résilier un contrat ?”
 Réponse attendue :
 
-Procédure résiliation
-La résiliation doit être enregistrée dans le CRM.
-Un accusé de réception est envoyé sous 48h.
-Le responsable conformité valide les dossiers sensibles.
+Bonjour,
+
+Je comprends tout à fait que vous souhaitiez connaître la procédure pour résilier votre contrat.
+
+Les informations dont je dispose décrivent notre processus interne une fois la demande de résiliation enregistrée. Je peux vous confirmer qu'un accusé de réception vous sera envoyé sous 48 heures après l'enregistrement de votre demande.
+
+Cependant, je n'ai pas les détails précis sur la manière dont vous devez initier cette demande (par exemple, quel canal utiliser ou quelles informations spécifiques fournir).
+
+Je suis désolé de ne pas pouvoir vous donner les étapes exactes pour le moment, car je ne dispose pas de ces données.
 
 
 Question Tenant B : “Comment résilier un contrat ?”
